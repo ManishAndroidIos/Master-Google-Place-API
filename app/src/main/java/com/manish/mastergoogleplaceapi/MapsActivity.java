@@ -54,7 +54,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-        Places.initialize(getApplicationContext(), "YOUR_MAP_KEY");
+        Places.initialize(getApplicationContext(), "YOUR_API_KEY");
 
         lay_search = (LinearLayout) findViewById(R.id.lay_search);
         txt_search = (TextView)findViewById(R.id.txt_search);
