@@ -19,11 +19,10 @@ Initialize the Place API
 ```
 
 
-Initialize the Place API
+Start the Autocomplete Intent
 
 ```
  List<Place.Field> fields = Arrays.asList(Place.Field.ID, Place.Field.NAME);
-        // Start the autocomplete intent.
         Intent intent = new Autocomplete.IntentBuilder(
                 AutocompleteActivityMode.OVERLAY, fields)
                 .build(this);
