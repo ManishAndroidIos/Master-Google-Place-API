@@ -50,5 +50,5 @@ onActivityResult
     }
 ```
 
-<img src="https://gfycat.com/WigglyActualHyracotherium.gif" width="1000" height="1000" />
+<img src="https://gfycat.com/WigglyActualHyracotherium.gif" width="200" height="200" />
 
