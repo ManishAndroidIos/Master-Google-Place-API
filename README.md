@@ -4,12 +4,12 @@ Status{statusCode=PLACES_API_ACCESS_NOT_CONFIGURED, resolution=null}
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Follow the instructions
 
-Say what the step will be
+Add the Gradle Dependancy
 
 ```
-Give the example
+implementation 'com.google.android.libraries.places:places:1.0.0'
 ```
 
 And repeat
