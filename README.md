@@ -50,5 +50,5 @@ onActivityResult
     }
 ```
 
-<img src="https://gfycat.com/LegalPettyFerret" width="100" height="100" />
+<img src="https://gfycat.com/LegalPettyFerret.gif" width="100" height="100" />
 
