@@ -50,6 +50,4 @@ onActivityResult
     }
 ```
 
-<img src="https://gfycat.com/WigglyActualHyracotherium.gif" width="200" height="200" />
-
-![](https://gfycat.com/WigglyActualHyracotherium.gif)
+<img src="http://gfycat.com/WigglyActualHyracotherium.gif" width="200" height="200" />
