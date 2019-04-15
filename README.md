@@ -50,4 +50,4 @@ onActivityResult
     }
 ```
 
-<img src="http://gfycat.com/WigglyActualHyracotherium.gif" width="200" height="200" />
+![](screenrecorder.20190404230741_20190404230741.gif)
