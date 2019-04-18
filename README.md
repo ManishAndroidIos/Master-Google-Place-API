@@ -49,5 +49,4 @@ onActivityResult
         }
     }
 ```
-
-![](screenrecorder.20190404230741_20190404230741.gif)
+<img src="screenrecorder.20190404230741_20190404230741.gif" width="200" height="300" />
